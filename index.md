@@ -6,8 +6,8 @@ Symfony certification [page](https://certification.symfony.com/).
 *NOTE:* The Symfony 5 Certification exam only includes questions about Symfony 5.0 and not about Symfony 5.1, 5.2, 5.3 and 5.4 versions.
 
 #### PHP
-  - [HP API up to PHP 7.2 version](https://artoasmith.github.io/sf-preps/page/php-api.md)
-  - Object Oriented Programming
+  - [PHP API up to PHP 7.2 version](https://artoasmith.github.io/sf-preps/page/php-api)
+  - [Object Oriented Programming](https://artoasmith.github.io/sf-preps/page/oop)
   - Namespaces
   - Interfaces
   - Anonymous functions and closures
