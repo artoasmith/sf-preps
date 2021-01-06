@@ -8,170 +8,170 @@ Symfony certification [page](https://certification.symfony.com/).
 #### PHP
   - [PHP API up to PHP 7.2 version](https://artoasmith.github.io/sf-preps/page/php-api)
   - [Object Oriented Programming](https://artoasmith.github.io/sf-preps/page/oop)
-  - Namespaces
-  - Interfaces
-  - Anonymous functions and closures
-  - Abstract classes
-  - Exception and error handling
-  - Traits
-  - PHP extensions
-  - SPL
+  - [Namespaces](https://artoasmith.github.io/sf-preps/page/namespaces)
+  - [Interfaces](https://artoasmith.github.io/sf-preps/page/interfaces)
+  - [Anonymous functions and closures](https://artoasmith.github.io/sf-preps/page/anonymous-functions-and-closures)
+  - [Abstract classes](https://artoasmith.github.io/sf-preps/page/abstract-classes)
+  - [Exception and error handling](https://artoasmith.github.io/sf-preps/page/exception-and-error-handling)
+  - [Traits](https://artoasmith.github.io/sf-preps/page/traits)
+  - [PHP extensions](https://artoasmith.github.io/sf-preps/page/php-extensions)
+  - [SPL](https://artoasmith.github.io/sf-preps/page/spl)
 
 #### HTTP
-  - Client / Server interaction
-  - Status codes
-  - HTTP request
-  - HTTP response
-  - HTTP methods
-  - Cookies
-  - Caching
-  - Content negotiation
-  - Language detection
-  - Symfony HttpClient component
+  - [Client / Server interaction](https://artoasmith.github.io/sf-preps/page/client--server-interaction)
+  - [Status codes](https://artoasmith.github.io/sf-preps/page/status-codes)
+  - [HTTP request](https://artoasmith.github.io/sf-preps/page/http-request)
+  - [HTTP response](https://artoasmith.github.io/sf-preps/page/http-response)
+  - [HTTP methods](https://artoasmith.github.io/sf-preps/page/http-methods)
+  - [Cookies](https://artoasmith.github.io/sf-preps/page/cookies)
+  - [Caching](https://artoasmith.github.io/sf-preps/page/caching)
+  - [Content negotiation](https://artoasmith.github.io/sf-preps/page/content-negotiation)
+  - [Language detection](https://artoasmith.github.io/sf-preps/page/language-detection)
+  - [Symfony HttpClient component](https://artoasmith.github.io/sf-preps/page/symfony-httpclient-component)
 
 #### Symfony Architecture
-  - Symfony Flex
-  - License
-  - Components
-  - Bridges
-  - Code organization
-  - Request handling
-  - Exception handling
-  - Event dispatcher and kernel events
-  - Official best practices
-  - Release management
-  - Backward compatibility promise
-  - Deprecations best practices
-  - Framework overloading
-  - Release management and roadmap schedule
-  - Framework interoperability and PSRs
-  - Naming conventions
+  - [Symfony Flex](https://artoasmith.github.io/sf-preps/page/symfony-flex)
+  - [License](https://artoasmith.github.io/sf-preps/page/license)
+  - [Components](https://artoasmith.github.io/sf-preps/page/components)
+  - [Bridges](https://artoasmith.github.io/sf-preps/page/bridges)
+  - [Code organization](https://artoasmith.github.io/sf-preps/page/code-organization)
+  - [Request handling](https://artoasmith.github.io/sf-preps/page/request-handling)
+  - [Exception handling](https://artoasmith.github.io/sf-preps/page/exception-handling)
+  - [Event dispatcher and kernel events](https://artoasmith.github.io/sf-preps/page/event-dispatcher-and-kernel-events)
+  - [Official best practices](https://artoasmith.github.io/sf-preps/page/official-best-practices)
+  - [Release management](https://artoasmith.github.io/sf-preps/page/release-management)
+  - [Backward compatibility promise](https://artoasmith.github.io/sf-preps/page/backward-compatibility-promise)
+  - [Deprecations best practices](https://artoasmith.github.io/sf-preps/page/deprecations-best-practices)
+  - [Framework overloading](https://artoasmith.github.io/sf-preps/page/framework-overloading)
+  - [Release management and roadmap schedule](https://artoasmith.github.io/sf-preps/page/release-management-and-roadmap-schedule)
+  - [Framework interoperability and PSRs](https://artoasmith.github.io/sf-preps/page/framework-interoperability-and-psrs)
+  - [Naming conventions](https://artoasmith.github.io/sf-preps/page/naming-conventions)
 
 #### Controllers
-  - Naming conventions
-  - The base AbstractController class
-  - The request
-  - The response
-  - The cookies
-  - The session
-  - The flash messages
-  - HTTP redirects
-  - Internal redirects
-  - Generate 404 pages
-  - File upload
-  - Built-in internal controllers
-
+  - [Naming conventions](https://artoasmith.github.io/sf-preps/page/controllers-naming-conventions)
+  - [The base AbstractController class](https://artoasmith.github.io/sf-preps/page/the-base-abstractcontroller-class)
+  - [The request](https://artoasmith.github.io/sf-preps/page/the-request)
+  - [The response](https://artoasmith.github.io/sf-preps/page/the-response)
+  - [The cookies](https://artoasmith.github.io/sf-preps/page/the-cookies)
+  - [The session](https://artoasmith.github.io/sf-preps/page/the-session)
+  - [The flash messages](https://artoasmith.github.io/sf-preps/page/the-flash-messages)
+  - [HTTP redirects](https://artoasmith.github.io/sf-preps/page/http-redirects)
+  - [Internal redirects](https://artoasmith.github.io/sf-preps/page/internal-redirects)
+  - [Generate 404 pages](https://artoasmith.github.io/sf-preps/page/generate-404-pages)
+  - [File upload](https://artoasmith.github.io/sf-preps/page/file-upload)
+  - [Built-in internal controllers](https://artoasmith.github.io/sf-preps/page/built-in-internal-controllers)
+  
 #### Routing
-  - Configuration (YAML, XML, PHP & annotations)
-  - Restrict URL parameters
-  - Set default values to URL parameters
-  - Generate URL parameters
-  - Trigger redirects
-  - Special internal routing attributes
-  - Domain name matching
-  - Conditional request matching
-  - HTTP methods matching
-  - User's locale guessing
-  - Router debugging
-  - Templating with Twig
-  - Auto escaping
-  - Template inheritance
-  - Global variables
-  - Filters and functions
-  - Template includes
-  - Loops and conditions
-  - URLs generation
-  - Controller rendering
-  - Translations and pluralization
-  - String interpolation
-  - Assets management
-  - Debugging variables
+  - [Configuration (YAML, XML, PHP & annotations)](https://artoasmith.github.io/sf-preps/page/configuration-yaml-xml-php-&-annotations)
+  - [Restrict URL parameters](https://artoasmith.github.io/sf-preps/page/restrict-url-parameters)
+  - [Set default values to URL parameters](https://artoasmith.github.io/sf-preps/page/set-default-values-to-url-parameters)
+  - [Generate URL parameters](https://artoasmith.github.io/sf-preps/page/generate-url-parameters)
+  - [Trigger redirects](https://artoasmith.github.io/sf-preps/page/trigger-redirects)
+  - [Special internal routing attributes](https://artoasmith.github.io/sf-preps/page/special-internal-routing-attributes)
+  - [Domain name matching](https://artoasmith.github.io/sf-preps/page/domain-name-matching)
+  - [Conditional request matching](https://artoasmith.github.io/sf-preps/page/conditional-request-matching)
+  - [HTTP methods matching](https://artoasmith.github.io/sf-preps/page/http-methods-matching)
+  - [User's locale guessing](https://artoasmith.github.io/sf-preps/page/user's-locale-guessing)
+  - [Router debugging](https://artoasmith.github.io/sf-preps/page/router-debugging)
+  - [Templating with Twig](https://artoasmith.github.io/sf-preps/page/templating-with-twig)
+  - [Auto escaping](https://artoasmith.github.io/sf-preps/page/auto-escaping)
+  - [Template inheritance](https://artoasmith.github.io/sf-preps/page/template-inheritance)
+  - [Global variables](https://artoasmith.github.io/sf-preps/page/global-variables)
+  - [Filters and functions](https://artoasmith.github.io/sf-preps/page/filters-and-functions)
+  - [Template includes](https://artoasmith.github.io/sf-preps/page/template-includes)
+  - [Loops and conditions](https://artoasmith.github.io/sf-preps/page/loops-and-conditions)
+  - [URLs generation](https://artoasmith.github.io/sf-preps/page/urls-generation)
+  - [Controller rendering](https://artoasmith.github.io/sf-preps/page/controller-rendering)
+  - [Translations and pluralization](https://artoasmith.github.io/sf-preps/page/translations-and-pluralization)
+  - [String interpolation](https://artoasmith.github.io/sf-preps/page/string-interpolation)
+  - [Assets management](https://artoasmith.github.io/sf-preps/page/assets-management)
+  - [Debugging variables](https://artoasmith.github.io/sf-preps/page/debugging-variables)
 
 #### Forms
-  - Forms creation
-  - Forms handling
-  - Form types
-  - Forms rendering with Twig
-  - Forms theming
-  - CSRF protection
-  - Handling file upload
-  - Built-in form types
-  - Data transformers
-  - Form events
-  - Form type extensions
+  - [Forms creation](https://artoasmith.github.io/sf-preps/page/forms-creation)
+  - [Forms handling](https://artoasmith.github.io/sf-preps/page/forms-handling)
+  - [Form types](https://artoasmith.github.io/sf-preps/page/form-types)
+  - [Forms rendering with Twig](https://artoasmith.github.io/sf-preps/page/forms-rendering-with-twig)
+  - [Forms theming](https://artoasmith.github.io/sf-preps/page/forms-theming)
+  - [CSRF protection](https://artoasmith.github.io/sf-preps/page/csrf-protection)
+  - [Handling file upload](https://artoasmith.github.io/sf-preps/page/handling-file-upload)
+  - [Built-in form types](https://artoasmith.github.io/sf-preps/page/built-in-form-types)
+  - [Data transformers](https://artoasmith.github.io/sf-preps/page/data-transformers)
+  - [Form events](https://artoasmith.github.io/sf-preps/page/form-events)
+  - [Form type extensions](https://artoasmith.github.io/sf-preps/page/form-type-extensions)
 
 #### Data Validation
-  - PHP object validation
-  - Built-in validation constraints
-  - Validation scopes
-  - Validation groups
-  - Group sequence
-  - Custom callback validators
-  - Violations builder
+  - [PHP object validation](https://artoasmith.github.io/sf-preps/page/php-object-validation)
+  - [Built-in validation constraints](https://artoasmith.github.io/sf-preps/page/built-in-validation-constraints)
+  - [Validation scopes](https://artoasmith.github.io/sf-preps/page/validation-scopes)
+  - [Validation groups](https://artoasmith.github.io/sf-preps/page/validation-groups)
+  - [Group sequence](https://artoasmith.github.io/sf-preps/page/group-sequence)
+  - [Custom callback validators](https://artoasmith.github.io/sf-preps/page/custom-callback-validators)
+  - [Violations builder](https://artoasmith.github.io/sf-preps/page/violations-builder)
 
 #### Dependency Injection
-  - Service container
-  - Built-in services
-  - Configuration parameters
-  - Services registration
-  - Tags
-  - Semantic configuration
-  - Factories
-  - Compiler passes
-  - Services autowiring
-
+  - [Service container](https://artoasmith.github.io/sf-preps/page/service-container)
+  - [Built-in services](https://artoasmith.github.io/sf-preps/page/built-in-services)
+  - [Configuration parameters](https://artoasmith.github.io/sf-preps/page/configuration-parameters)
+  - [Services registration](https://artoasmith.github.io/sf-preps/page/services-registration)
+  - [Tags](https://artoasmith.github.io/sf-preps/page/tags)
+  - [Semantic configuration](https://artoasmith.github.io/sf-preps/page/semantic-configuration)
+  - [Factories](https://artoasmith.github.io/sf-preps/page/factories)
+  - [Compiler passes](https://artoasmith.github.io/sf-preps/page/compiler-passes)
+  - [Services autowiring](https://artoasmith.github.io/sf-preps/page/services-autowiring)
+  
 #### Security
-  - Authentication
-  - Authorization
-  - Configuration
-  - Providers
-  - Firewalls
-  - Users
-  - Passwords encoders
-  - Roles
-  - Access Control Rules
-  - Guard authenticators
-  - Voters and voting strategies
-
+  - [Authentication](https://artoasmith.github.io/sf-preps/page/authentication)
+  - [Authorization](https://artoasmith.github.io/sf-preps/page/authorization)
+  - [Configuration](https://artoasmith.github.io/sf-preps/page/configuration)
+  - [Providers](https://artoasmith.github.io/sf-preps/page/providers)
+  - [Firewalls](https://artoasmith.github.io/sf-preps/page/firewalls)
+  - [Users](https://artoasmith.github.io/sf-preps/page/users)
+  - [Passwords encoders](https://artoasmith.github.io/sf-preps/page/passwords-encoders)
+  - [Roles](https://artoasmith.github.io/sf-preps/page/roles)
+  - [Access Control Rules](https://artoasmith.github.io/sf-preps/page/access-control-rules)
+  - [Guard authenticators](https://artoasmith.github.io/sf-preps/page/guard-authenticators)
+  - [Voters and voting strategies](https://artoasmith.github.io/sf-preps/page/voters-and-voting-strategies)
+  
 #### HTTP Caching
-  - Cache types (browser, proxies and reverse-proxies)
-  - Expiration (Expires, Cache-Control)
-  - Validation (ETag, Last-Modified)
-  - Client side caching
-  - Server side caching
-  - Edge Side Includes
+  - [Cache types (browser, proxies and reverse-proxies)](https://artoasmith.github.io/sf-preps/page/cache-types-browser-proxies-and-reverse-proxies)
+  - [Expiration (Expires, Cache-Control)](https://artoasmith.github.io/sf-preps/page/expiration-expires-cache-control)
+  - [Validation (ETag, Last-Modified)](https://artoasmith.github.io/sf-preps/page/validation-etag-last-modified)
+  - [Client side caching](https://artoasmith.github.io/sf-preps/page/client-side-caching)
+  - [Server side caching](https://artoasmith.github.io/sf-preps/page/server-side-caching)
+  - [Edge Side Includes](https://artoasmith.github.io/sf-preps/page/edge-side-includes)
 
 #### Console
-  - Built-in commands
-  - Custom commands
-  - Configuration
-  - Options and arguments
-  - Input and Output objects
-  - Built-in helpers
-  - Console events
-  - Verbosity levels
+  - [Built-in commands](https://artoasmith.github.io/sf-preps/page/built-in-commands)
+  - [Custom commands](https://artoasmith.github.io/sf-preps/page/custom-commands)
+  - [Configuration](https://artoasmith.github.io/sf-preps/page/configuration)
+  - [Options and arguments](https://artoasmith.github.io/sf-preps/page/options-and-arguments)
+  - [Input and Output objects](https://artoasmith.github.io/sf-preps/page/input-and-output-objects)
+  - [Built-in helpers](https://artoasmith.github.io/sf-preps/page/built-in-helpers)
+  - [Console events](https://artoasmith.github.io/sf-preps/page/console-events)
+  - [Verbosity levels](https://artoasmith.github.io/sf-preps/page/verbosity-levels)
 
 #### Automated Tests
-  - Unit tests with PHPUnit
-  - Functional tests with PHPUnit
-  - Client object
-  - Crawler object
-  - Profile object
-  - Framework objects access
-  - Client configuration
-  - Request and response objects introspection
-  - PHPUnit bridge
-  - Handling legacy deprecated code
+  - [Unit tests with PHPUnit](https://artoasmith.github.io/sf-preps/page/unit-tests-with-phpunit)
+  - [Functional tests with PHPUnit](https://artoasmith.github.io/sf-preps/page/functional-tests-with-phpunit)
+  - [Client object](https://artoasmith.github.io/sf-preps/page/client-object)
+  - [Crawler object](https://artoasmith.github.io/sf-preps/page/crawler-object)
+  - [Profile object](https://artoasmith.github.io/sf-preps/page/profile-object)
+  - [Framework objects access](https://artoasmith.github.io/sf-preps/page/framework-objects-access)
+  - [Client configuration](https://artoasmith.github.io/sf-preps/page/client-configuration)
+  - [Request and response objects introspection](https://artoasmith.github.io/sf-preps/page/request-and-response-objects-introspection)
+  - [PHPUnit bridge](https://artoasmith.github.io/sf-preps/page/phpunit-bridge)
+  - [Handling legacy deprecated code](https://artoasmith.github.io/sf-preps/page/handling-legacy-deprecated-code)
 
 ### Miscellaneous
-  - Configuration (including DotEnv and ExpressionLanguage components)
-  - Error handling
-  - Code debugging
-  - Deployment best practices
-  - Process and Serializer components
-  - Messenger component
-  - Mime and Mailer components
-  - Filesystem and Finder components
-  - Lock component
-  - Web Profiler, Web Debug Toolbar and Data collectors
-  - Internationalization and localization (and Intl component)
+  - [Configuration (including DotEnv and ExpressionLanguage components)](https://artoasmith.github.io/sf-preps/page/configuration-including-dotenv-and-expressionlanguage-components)
+  - [Error handling](https://artoasmith.github.io/sf-preps/page/error-handling)
+  - [Code debugging](https://artoasmith.github.io/sf-preps/page/code-debugging)
+  - [Deployment best practices](https://artoasmith.github.io/sf-preps/page/deployment-best-practices)
+  - [Process and Serializer components](https://artoasmith.github.io/sf-preps/page/process-and-serializer-components)
+  - [Messenger component](https://artoasmith.github.io/sf-preps/page/messenger-component)
+  - [Mime and Mailer components](https://artoasmith.github.io/sf-preps/page/mime-and-mailer-components)
+  - [Filesystem and Finder components](https://artoasmith.github.io/sf-preps/page/filesystem-and-finder-components)
+  - [Lock component](https://artoasmith.github.io/sf-preps/page/lock-component)
+  - [Web Profiler, Web Debug Toolbar and Data collectors](https://artoasmith.github.io/sf-preps/page/web-profiler-web-debug-toolbar-and-data-collectors)
+  - [Internationalization and localization (and Intl component)](https://artoasmith.github.io/sf-preps/page/internationalization-and-localization-and-intl-component)
